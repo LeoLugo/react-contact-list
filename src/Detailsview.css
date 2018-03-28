@@ -1,0 +1,33 @@
+.detailtop {
+	width: 400px;
+	height: 200px;
+	background-color: #A8CF7A;
+	position: relative;
+}
+.detailarrow {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 10px;
+	left: 5px;
+}
+.detailpic {
+	position: absolute;
+	top: 35px;
+	left: 125px;
+	border-radius: 50%;
+}
+.detail {
+	height: 83px;
+	border-bottom: 1px solid #ECECEC;
+	position: relative;
+	line-height: 82px;
+	padding-left: 40px;
+}
+.detailicon {
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	left: 5px;
+	top: 32px;
+}

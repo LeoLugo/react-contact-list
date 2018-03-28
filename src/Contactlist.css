@@ -1,0 +1,31 @@
+.title {
+  background-color: #83BA43;
+  color: white;
+  padding: 3px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+.hold {
+  display: flex;
+  background-color: white;
+  border-bottom: 1px solid #ECECEC;
+  height: 60px;
+  line-height: 60px;
+}
+img {
+  padding: 2px;
+  border-radius: 50%;
+}
+.personname {
+  padding-left: 10px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.listpic {
+  padding-top: 5px;
+  padding-left: 5px;
+}

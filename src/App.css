@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.main {
+  width: 400px;
+  height: 530px;
+  margin: auto;
+  margin-top: 200px;
+  overflow: scroll;
+  background-color: white;
+}
